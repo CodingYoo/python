@@ -12,5 +12,5 @@ def getHTMLText(url):
 
 
 if __name__ == '__main__':
-    url = "http://www.lph.ink"
+    url = "https://www.lph.ink"
     print(getHTMLText(url))
