@@ -1,2 +1,3 @@
-# py-worm
-a python project for worm,awesome!
+# python3 learning
+
+a python project for learning,awesome!
