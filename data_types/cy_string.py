@@ -9,11 +9,12 @@
 var1 = 'python'
 
 # python
-print(var1) 
+print(var1)
 # p
 print(var1[0:1])
 # p
 print(var1[:1])
 # n
 print(var1[-1])
-
+# type
+print(type(var1))
